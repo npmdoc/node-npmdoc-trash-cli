@@ -1,6 +1,6 @@
 # npmdoc-trash-cli
 
-#### api documentation for  [trash-cli (v1.4.0)](https://github.com/sindresorhus/trash-cli#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-trash-cli.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-trash-cli) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-trash-cli.svg)](https://travis-ci.org/npmdoc/node-npmdoc-trash-cli)
+#### basic api documentation for  [trash-cli (v1.4.0)](https://github.com/sindresorhus/trash-cli#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-trash-cli.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-trash-cli) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-trash-cli.svg)](https://travis-ci.org/npmdoc/node-npmdoc-trash-cli)
 
 #### Move files and folders to the trash
 
